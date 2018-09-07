@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace kafka_stopwatcher
+namespace kafka_stopwatch
 {
     class Program
     {
